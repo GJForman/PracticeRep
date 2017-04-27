@@ -13,6 +13,7 @@ public class BAETest {
 		System.out.println(testing.speciesOwnedByOccupationAsString("Cat"));
 		System.out.println(testing.speciesOwnedByOccupationAsString("Cat Sitter"));
 		System.out.println(testing.speciesOwnedByOccupationAsString("Trainer"));
+		System.out.println(testing.speciesOwnedByOccupationAsString("Smash Player"));
 		
 	}
 
